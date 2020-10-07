@@ -1,0 +1,27 @@
+@media only screen and (min-width: 480px) and (max-width: 600px) {
+  .componentPrincipal {
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 601px) and (max-width: 764px) {
+  .componentPrincipal {
+    width: 250px;
+  }
+}
+@media only screen and (min-width: 765px) and (max-width: 990px) {
+  .componentPrincipal {
+    width: 230px;
+  }
+}
+
+@media only screen and (min-width: 990px) and (max-width: 1199px) {
+  .componentPrincipal {
+    width: 232px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .componentPrincipal {
+    width: 277px;
+  }
+}

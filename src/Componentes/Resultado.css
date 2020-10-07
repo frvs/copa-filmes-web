@@ -1,0 +1,28 @@
+@media only screen and (min-width: 0px) and (max-width: 600px) {
+  .colunaTitulo {
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 1em;
+  }
+}
+@media only screen and (min-width: 601px) and (max-width: 764px) {
+  .colunaTitulo {
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 1.25em;
+  }
+}
+@media only screen and (min-width: 765px) and (max-width: 990px) {
+  .colunaTitulo {
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 1.5em;
+  }
+}
+@media only screen and (min-width: 765px) {
+  .colunaTitulo {
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 1.5em;
+  }
+}
